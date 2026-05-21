@@ -21,6 +21,11 @@ Aplicativo Android desenvolvido em Java para calcular o salário líquido de um 
 - IR: descontado conforme faixa salarial
 - Salário Família: aplicado conforme regras de renda
 - Salário Líquido:
+- ## 📌 Observações
+
+- Os valores são simulados para fins acadêmicos
+- Não representa cálculos oficiais do governo
+- 
   ## 👨‍💻 Autor
 
 Desenvolvido por Davi Foppa
